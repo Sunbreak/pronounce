@@ -1,16 +1,17 @@
-# pronounce
+# How IT pronounces
 
-A new Flutter project.
+## YAML
 
-## Getting Started
+https://yaml.org/spec/history/2001-05-26.html
 
-This project is a starting point for a Flutter application.
+https://zh.wikipedia.org/wiki/YAML, https://en.wikipedia.org/wiki/YAML
 
-A few resources to get you started if this is your first Flutter project:
+https://en.wiktionary.org/wiki/YAML
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://tool.lu/pronounce/
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www.yourdictionary.com/yaml#wiktionary
+
+https://youglish.com/pronounce/yaml
+
+http://www.howtopronounce.cc/yaml
